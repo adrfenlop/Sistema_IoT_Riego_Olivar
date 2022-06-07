@@ -8,3 +8,5 @@ Se proporcionan 3 códigos diferentes para los nodos:
   - connectAWS_Debug. Define la funcionalidad básica más mensaje de debug por el puerto serie a lo largo de la ejecución del programa.
 
 librerias_arduino contiene todas las librerias utilizadas para los 3 códigos utilizados en los nodos.
+
+datos_analisis contiene los archivos extraidos de la base de datos para ejemplificar los analisis del 

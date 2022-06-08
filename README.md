@@ -9,4 +9,6 @@ Se proporcionan 3 códigos diferentes para los nodos:
 
 librerias_arduino contiene todas las librerias utilizadas para los 3 códigos utilizados en los nodos.
 
-datos_analisis contiene los archivos extraidos de la base de datos para ejemplificar los analisis del 
+datos_analisis contiene los archivos extraidos de la base de datos para ejemplificar los analisis del manual de usuario.
+
+Caja y Tapadera son los archivos stl utilizados para la impresión 3D del encapsulado de los nodos.
